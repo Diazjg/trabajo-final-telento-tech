@@ -1,0 +1,48 @@
+{
+    "id": 1,
+    "name": "ARROZ DOS HERMANAS",
+    "price": 2700,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati hic fugit quidem sequi temporibus natus cum, ut voluptatem rem, debitis velit provident harum dolore eaque sapiente minima iusto tenetur voluptate."
+},
+{
+    "id": 2,
+    "name": "ACEITE CAÑUELAS 900 ML",
+    "price": 2250,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati hic fugit quidem sequi temporibus natus cum, ut voluptatem rem, debitis velit provident harum dolore eaque sapiente minima iusto tenetur voluptate."
+},
+{
+    "id": 3,
+    "name": "AZUCAR LEDESMA",
+    "price": 1620,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati hic fugit quidem sequi temporibus natus cum, ut voluptatem rem, debitis velit provident harum dolore eaque sapiente minima iusto tenetur voluptate."
+},
+{
+    "id": 4,
+    "name": "BUDIN 9 DE ORO",
+    "price": 2480,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati hic fugit quidem sequi temporibus natus cum, ut voluptatem rem, debitis velit provident harum dolore eaque sapiente minima iusto tenetur voluptate."
+},
+{
+    "id": 5,
+    "name": "FIDEOS TALLARINES LUCCHETTI",
+    "price": 1410,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati hic fugit quidem sequi temporibus natus cum, ut voluptatem rem, debitis velit provident harum dolore eaque sapiente minima iusto tenetur voluptate."
+},
+{
+    "id": 6,
+    "name": "LECHE LARGA VIDA LA SERENISIMA 1 LT",
+    "price": 2480,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati hic fugit quidem sequi temporibus natus cum, ut voluptatem rem, debitis velit provident harum dolore eaque sapiente minima iusto tenetur voluptate."
+},
+{
+    "id": 7,
+    "name": "MAYONESA NATURA",
+    "price": 2230,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati hic fugit quidem sequi temporibus natus cum, ut voluptatem rem, debitis velit provident harum dolore eaque sapiente minima iusto tenetur voluptate."
+},
+{
+    "id": 8,
+    "name": "POLENTA PRESTO PRONTA",
+    "price": 1200,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati hic fugit quidem sequi temporibus natus cum, ut voluptatem rem, debitis velit provident harum dolore eaque sapiente minima iusto tenetur voluptate."
+}
